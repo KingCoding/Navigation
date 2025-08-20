@@ -1,5 +1,5 @@
 # NAVIGATION
-![Continuous Control snapshot](https://github.com/KingCoding/Continuous-Control-Optimized-Sampling/blob/main/pictures/Continuous%20Control%20Snapshot.png)
+![Continuous Control snapshot](https://github.com/KingCoding/Navigation/blob/main/pictures/Banana_Navigation.png)
 ## DESCRIPTION
 Uses DQN a reinforcement learning algorithm to solve a navigation environment where an agent's goal is to collect the maximum number of bananas
 The goal pf this project is to train an agent to navigate (and collect bananas!) in a large, square world.
@@ -62,4 +62,4 @@ env = UnityEnvironment(file_name="YOUR_SYSTEM_UNITY_ENVIRONMENT_FILE_NAME")
 Run all the intructions in the Continuous_Control_Optimized_Sampling.ipynb file to train the Navigation agent.
 
 ## TRAINING RESULT GRAPH
-![Training result graph](https://github.com/KingCoding/Continuous-Control-Optimized-Sampling/blob/main/pictures/Continuous%20Control%20Chart.png)
+![Training result graph](https://github.com/KingCoding/Navigation/blob/main/pictures/Navigation_Result_Graph.png)
