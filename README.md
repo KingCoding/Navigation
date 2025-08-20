@@ -59,7 +59,7 @@ env = UnityEnvironment(file_name="YOUR_SYSTEM_UNITY_ENVIRONMENT_FILE_NAME")
 ```
 
 ## EXECUTION
-Run all the intructions in the Continuous_Control_Optimized_Sampling.ipynb file to train the Navigation agent.
+Run all the intructions in the Navigation.ipynb file to train the Navigation agent.
 
 ## TRAINING RESULT GRAPH
 ![Training result graph](https://github.com/KingCoding/Navigation/blob/main/pictures/Navigation_Result_Graph.png)
