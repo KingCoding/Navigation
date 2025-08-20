@@ -1,4 +1,5 @@
 # NAVIGATION
+![Continuous Control snapshot](https://github.com/KingCoding/Continuous-Control-Optimized-Sampling/blob/main/pictures/Continuous%20Control%20Snapshot.png)
 ## DESCRIPTION
 Uses DQN a reinforcement learning algorithm to solve a navigation environment where an agent's goal is to collect the maximum number of bananas
 The goal pf this project is to train an agent to navigate (and collect bananas!) in a large, square world.
